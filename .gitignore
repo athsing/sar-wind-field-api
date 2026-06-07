@@ -1,0 +1,21 @@
+# Data Files
+*.tiff
+*.tif
+*.SAFE/
+*.zip
+*.npy
+*.npz
+*.nc
+
+# Model Weights
+*.keras
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Temporary / OS Files
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
+*.log
